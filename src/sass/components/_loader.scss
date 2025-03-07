@@ -1,0 +1,51 @@
+body.loading {
+  overflow: hidden;
+  height: 100vh;
+}
+
+.loader {
+  .loader-inner {
+    .image-block {
+      position: absolute;
+      transform-origin: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      &.image-1 {
+        width: 24vw;
+        left: 7%;
+        bottom: 14%;
+        z-index: 10;
+        top: 50%;
+        transform: translateY(-80%);
+        @media (max-width: $layout-breakpoint-xsmall) {
+          left: 4%;
+          bottom: 28%;
+        }
+      }
+      &.image-2 {
+        z-index: 30;
+        width: 28vw;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+      &.image-3 {
+        width: 26vw;
+        right: 6%;
+        top: 50%;
+        transform: translateY(-65%);
+        z-index: 20;
+
+        @media (max-width: $layout-breakpoint-xsmall) {
+          top: 16%;
+          right: 4%;
+        }
+      }
+      img {
+        width: 100%;
+        object-fit: fill;
+        position: relative;
+      }
+    }
+  }
+}
