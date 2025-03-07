@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marketing-page-playground/static/css/main.16c5780f.chunk.css",
+    "main.js": "/marketing-page-playground/static/js/main.77d9c49d.chunk.js",
+    "main.js.map": "/marketing-page-playground/static/js/main.77d9c49d.chunk.js.map",
+    "runtime-main.js": "/marketing-page-playground/static/js/runtime-main.fc7dbe63.js",
+    "runtime-main.js.map": "/marketing-page-playground/static/js/runtime-main.fc7dbe63.js.map",
+    "static/js/2.2bb608cf.chunk.js": "/marketing-page-playground/static/js/2.2bb608cf.chunk.js",
+    "static/js/2.2bb608cf.chunk.js.map": "/marketing-page-playground/static/js/2.2bb608cf.chunk.js.map",
+    "static/js/3.982a606f.chunk.js": "/marketing-page-playground/static/js/3.982a606f.chunk.js",
+    "static/js/3.982a606f.chunk.js.map": "/marketing-page-playground/static/js/3.982a606f.chunk.js.map",
+    "index.html": "/marketing-page-playground/index.html",
+    "static/css/main.16c5780f.chunk.css.map": "/marketing-page-playground/static/css/main.16c5780f.chunk.css.map",
+    "static/js/2.2bb608cf.chunk.js.LICENSE.txt": "/marketing-page-playground/static/js/2.2bb608cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc7dbe63.js",
+    "static/js/2.2bb608cf.chunk.js",
+    "static/css/main.16c5780f.chunk.css",
+    "static/js/main.77d9c49d.chunk.js"
+  ]
+}
